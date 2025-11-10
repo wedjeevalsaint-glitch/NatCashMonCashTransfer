@@ -5,35 +5,39 @@
 NatCash MonCash Transfère se yon aplikasyon mobil ki fèt pou pèmèt itilizatè yo transfere lajan ant NatCash ak MonCash rapidman, san bezwen entèmedyè. Aplikasyon an senplifye pwosesis la, epi li garanti sekirite tranzaksyon yo gras ak verifikasyon idantite ak pwoteksyon PIN.
 
 ### MUST HAVE
-Login ak verifikasyon idantite (PIN, SMS code, oswa biyometrik).
 
-Koneksyon ak kont NatCash ak MonCash (API oswa entegrasyon dirèk).
+- Login ak verifikasyon idantite (PIN, SMS code, oswa biyometrik).
 
-Fonksyon transfè lajan ant NatCash ↔ MonCash (bidireksyonèl).
+- Koneksyon ak kont NatCash ak MonCash (API oswa entegrasyon dirèk).
 
-Sekirite tranzaksyon yo (chifreman, pwoteksyon PIN, logout otomatik).
+- Fonksyon transfè lajan ant NatCash ↔ MonCash (bidireksyonèl).
 
-Istwa tranzaksyon (vizyalizasyon dènye transfè yo).
+- Sekirite tranzaksyon yo (chifreman, pwoteksyon PIN, logout otomatik).
+
+- Istwa tranzaksyon (vizyalizasyon dènye transfè yo).
+- 
 ### MAYBE HAVE
-Limit transfè pèsonalize (itilizatè a chwazi limit chak jou).
 
-Notifikasyon entelijan (avètisman lè balans ba, oswa transfè an reta).
+- Limit transfè pèsonalize (itilizatè a chwazi limit chak jou).
 
-Fonksyon “Favori” pou sove kontak transfè regilye.
+- Notifikasyon entelijan (avètisman lè balans ba, oswa transfè an reta).
 
-Mòd offline pou prepare transfè epi voye lè koneksyon retounen.
+- Fonksyon “Favori” pou sove kontak transfè regilye.
 
-Chatbot asistans pou kesyon oswa pwoblèm rapid.
+- Mòd offline pou prepare transfè epi voye lè koneksyon retounen.
 
-Sipò pou de lang (Kreyòl ak Fransè).
+- Chatbot asistans pou kesyon oswa pwoblèm rapid.
+
+- Sipò pou de lang (Kreyòl ak Fransè).
 
 ### WOULD BE NICE TO HAVE
-Kachbèk oswa pwen fidèlte pou itilizatè aktif yo.
 
-Anplifikasyon transfè atravè QR Code.
+- Kachbèk oswa pwen fidèlte pou itilizatè aktif yo.
 
-Rekonesans vizaj oswa anprent dwèt kòm opsyon sekirite siplemantè.
+- Anplifikasyon transfè atravè QR Code.
 
-Rapò finansye senp (grafik depans ak resevwa).
+- Rekonesans vizaj oswa anprent dwèt kòm opsyon sekirite siplemantè.
 
-Entegrasyon ak lòt platfòm finans (bank lokal, Digicel, PayPal, elatriye).
+- Rapò finansye senp (grafik depans ak resevwa).
+
+- Entegrasyon ak lòt platfòm finans (bank lokal, Digicel, PayPal, elatriye).
